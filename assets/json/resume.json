@@ -52,10 +52,10 @@
       "url": "https://www.earth.miami.edu/",
       "area": "Atmospheric Sciences",
       "studyType": "PhD",
-      "startDate": "2022-08",
+      "startDate": "2022",
       "endDate": "Present",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses":
     },
     {
       "institution": "Colorado School of Mines",
@@ -63,10 +63,21 @@
       "url": "https://www.mines.edu/",
       "area": "Hydrologic Science and Engineering",
       "studyType": "MS",
-      "startDate": "2015-08",
-      "endDate": "2018-05",
+      "startDate": "2015",
+      "endDate": "2018",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses":
+    },
+    {
+      "institution": "University of Colorado Boulder",
+      "location": "Boulder, Colorado",
+      "url": "https://www.mines.edu/",
+      "area": "Geology",
+      "studyType": "BA",
+      "startDate": "2011",
+      "endDate": "2014",
+      "score": "10",
+      "courses":
     }
   ],
   "awards": [
@@ -145,47 +156,46 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+#  "skills": [
+#    {
+#      "name": "Physics",
+#      "level": "Master",
+#      "icon": "fa-solid fa-hashtag",
+#      "keywords": [
+#        "Quantum Mechanics",
+#        "Quantum Computing",
+#        "Quantum Information",
+#        "Quantum Cryptography",
+#        "Quantum Communication",
+#        "Quantum Teleportation"
+#      ]
+#    }
+#  ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+"interests": [
+  {
+    "name": "High-Resolution Modeling",
+    "icon": "fa-solid fa-microchip"
+  },
+  {
+    "name": "Large-Scale Climate Variability & Predictability",
+    "icon": "fa-solid fa-globe"
+  },
+  {
+    "name": "Air-Sea Interactions",
+    "icon": "fa-solid fa-water"
+  },
+  {
+    "name": "Machine Learning",
+    "icon": "fa-solid fa-robot"
+  }
+],
   "references": [
     {
       "name": "Professor John Doe",
